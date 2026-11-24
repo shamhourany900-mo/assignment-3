@@ -1,0 +1,190 @@
+body{
+    background-color: black;
+    margin-top: -10px;
+}
+h3{
+    color: rgb(132, 16, 240);
+    margin-bottom: 0px;
+}
+h6{
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+p{
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 7px;
+    margin-top: 2px;
+}
+h1{
+    color: rgb(132, 16, 240);
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 2px;
+}
+.si{
+    margin: 0px;
+    display: flex;
+    align-items: baseline;
+}
+.card-1{
+    display: flex;
+    justify-content: space-around;
+}
+.container-1{
+    width: 230px;
+    height: 230px;
+    background-color: rgb(132, 16, 240);
+    color: white;
+}
+.container-1 svg{
+    margin-top: 100px;
+    margin-left: 4px;
+}
+.container-1 h5{
+    margin-top: 0px;
+    margin-left: 4px;
+    font-size: 20px;
+}
+.container{
+    width: 230px;
+    height: 230px;
+    background-color: rgb(168, 167, 167);
+    color: white;
+}
+.container svg{
+    margin-top: 100px;
+    margin-left: 4px;
+}
+.container h5{
+    margin-top: 0px;
+    margin-left: 4px;
+    font-size: 20px;
+}
+.card-2{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    border: 2px solid rgb(132, 16, 240);
+      width: 280px;
+     height: 280px;
+     border-radius: 7%;
+     color: white;
+     margin-top: 9px;
+}
+.box1 svg{
+    margin-top: 100px;
+    margin-left: 130px;
+   
+}
+.box1 h4{
+    margin-top: 0px;
+    font-size: 20px;
+    text-align: center;
+}
+.box1 h6{
+    margin-top: 0px;
+    text-align: center;
+}
+.box2{
+    border: 2px solid rgb(168, 167, 167);
+      width: 280px;
+     height: 280px;
+     border-radius: 7%;
+     color: white;
+     margin-top: 9px;
+}
+.box2 svg{
+    margin-top: 100px;
+    margin-left: 130px;
+   
+}
+.box2 h4{
+    margin-top: 0px;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(132, 16, 240);
+}
+.box2 h6{
+    margin-top: 0px;
+    text-align: center;
+}
+.card-3{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    border: 2px solid rgb(132, 16, 240);
+      width: 280px;
+     height: 280px;
+     border-radius: 7%;
+     color: white;
+     margin-top: 9px;
+}
+.box1 svg{
+    margin-top: 100px;
+    margin-left: 125px;
+   
+}
+.box1 h4{
+    margin-top: 0px;
+    font-size: 20px;
+    text-align: center;
+}
+.box1 h6{
+    margin-top: 0px;
+    text-align: center;
+}
+.box2{
+    border: 2px solid rgb(168, 167, 167);
+      width: 280px;
+     height: 280px;
+     border-radius: 7%;
+     color: white;
+     margin-top: 9px;
+}
+.box2 svg{
+    margin-top: 100px;
+    margin-left: 125px;
+   
+}
+.box2 h4{
+    margin-top: 0px;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(132, 16, 240);
+}
+.box2 h6{
+    margin-top: 0px;
+    text-align: center;
+}
+.card-4{
+     display: flex;
+    justify-content: space-around;
+}
+img{
+     width: 290px;
+    height: 90px;
+     margin: 4px;
+}
+.ph1{
+    border: 1px solid rgba(107, 103, 103, 0.9);
+    background-color: rgba(66, 65, 65, 0.9);
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.one{
+    color: white;
+    background-color: rgb(132, 16, 240);
+     border: 3px solid rgb(132, 16, 240);
+     margin-top: 5PX;
+}
+.two{
+    border: 3px solid rgb(132, 16, 240);
+}
+.ph1 h3{
+    margin-top: 4px;
+}
